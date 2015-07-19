@@ -1,0 +1,160 @@
+TSA Data: 73A0
+Palette Data: 3C32
+Block Attribute Data: 7450
+Level GFX Data 1: 8010
+Level GFX Data 2: 9010
+Level GFX Data 3: A010
+Level GFX Data 4: B010
+Rockford Palette: 2773
+World Map Data: 778A
+World Map Palette: 27DC
+World Map Attribute Data: 7B4A
+World Map Palette Data: E010
+Title Logo Data: 7460
+Title Logo Attribute Data: 7549
+Title Logo Palette: 5AF2
+Starting Lives: 5B50
+World 1-1 Data: 8810
+World 1-2 Data: 89C8
+World 1-3 Data: 8B80
+World 1-4 Data: 8D38
+World 2-1 Data: 9810
+World 2-2 Data: 99C8
+World 2-3 Data: 9B80
+World 2-4 Data: 9D38
+World 3-1 Data: A810
+World 3-2 Data: A9C8
+World 3-3 Data: AB80
+World 3-4 Data: AD38
+World 4-1 Data: B810
+World 4-2 Data: B9C8
+World 4-3 Data: BB80
+World 4-4 Data: BD38
+World 5-1 Data: F010
+World 5-2 Data: F1C8
+World 5-3 Data: F380
+World 5-4 Data: F538
+World 6-1 Data: F6F0
+World 6-2 Data: F8A8
+World 6-3 Data: FA60
+World 6-4 Data: FC18
+World 1-1 Scroll Data 3CA2
+World 1-2 Scroll Data 3CAB
+World 1-3 Scroll Data 3CB4
+World 1-4 Scroll Data 3CBD
+World 2-1 Scroll Data 3CC6
+World 2-2 Scroll Data 3CCF
+World 2-3 Scroll Data 3CD8
+World 2-4 Scroll Data 3CE1
+World 3-1 Scroll Data 3CEA
+World 3-2 Scroll Data 3CF3
+World 3-3 Scroll Data 3CFC
+World 3-4 Scroll Data 3D05
+World 4-1 Scroll Data 3D0E
+World 4-2 Scroll Data 3D17
+World 4-3 Scroll Data 3D20
+World 4-4 Scroll Data 3D29
+World 5-1 Scroll Data 3D32
+World 5-2 Scroll Data 3D3B
+World 5-3 Scroll Data 3D44
+World 5-4 Scroll Data 3D4D
+World 6-1 Scroll Data 3D56
+World 6-2 Scroll Data 3D5F
+World 6-3 Scroll Data 3D68
+World 6-4 Scroll Data 3D71
+World 1-1 Start Y 7260
+World 1-1 Start X 7261
+World 1-1 Crystal 7264
+World 1-1 Time 7265
+World 1-2 Start Y 726C
+World 1-2 Start X 726D
+World 1-2 Crystal 7270
+World 1-2 Time 7271
+World 1-3 Start Y 7278
+World 1-3 Start X 7279
+World 1-3 Crystal 727C
+World 1-3 Time 727D
+World 1-4 Start Y 7284
+World 1-4 Start X 7285
+World 1-4 Crystal 7288
+World 1-4 Time 7289
+World 2-1 Start Y 7290
+World 2-1 Start X 7291
+World 2-1 Crystal 7294
+World 2-1 Time 7295
+World 2-2 Start Y 729C
+World 2-2 Start X 729D
+World 2-2 Crystal 72A0
+World 2-2 Time 72A1
+World 2-3 Start Y 72A8
+World 2-3 Start X 72A9
+World 2-3 Crystal 72AC
+World 2-3 Time 72AD
+World 2-4 Start Y 72B4
+World 2-4 Start X 72B5
+World 2-4 Crystal 72B8
+World 2-4 Time 72B9
+World 3-1 Start Y 72C0
+World 3-1 Start X 72C1
+World 3-1 Crystal 72C4
+World 3-1 Time 72C5
+World 3-2 Start Y 72CC
+World 3-2 Start X 72CD
+World 3-2 Crystal 72D0
+World 3-2 Time 72D1
+World 3-3 Start Y 72D8
+World 3-3 Start X 72D9
+World 3-3 Crystal 72DC
+World 3-3 Time 72DD
+World 3-4 Start Y 72E4
+World 3-4 Start X 72E5
+World 3-4 Crystal 72E8
+World 3-4 Time 72E9
+World 4-1 Start Y 72F0
+World 4-1 Start X 72F1
+World 4-1 Crystal 72F4
+World 4-1 Time 72F5
+World 4-2 Start Y 72FC
+World 4-2 Start X 72FD
+World 4-2 Crystal 7300
+World 4-2 Time 7301
+World 4-3 Start Y 7308
+World 4-3 Start X 7309
+World 4-3 Crystal 730C
+World 4-3 Time 730D
+World 4-4 Start Y 7314
+World 4-4 Start X 7315
+World 4-4 Crystal 7318
+World 4-4 Time 7319
+World 5-1 Start Y 7320
+World 5-1 Start X 7321
+World 5-1 Crystal 7324
+World 5-1 Time 7325
+World 5-2 Start Y 732C
+World 5-2 Start X 732D
+World 5-2 Crystal 7330
+World 5-2 Time 7331
+World 5-3 Start Y 7338
+World 5-3 Start X 7339
+World 5-3 Crystal 733C
+World 5-3 Time 733D
+World 5-4 Start Y 7344
+World 5-4 Start X 7345
+World 5-4 Crystal 7348
+World 5-4 Time 7349
+World 6-1 Start Y 7350
+World 6-1 Start X 7351
+World 6-1 Crystal 7354
+World 6-1 Time 7355
+World 6-2 Start Y 735C
+World 6-2 Start X 735D
+World 6-2 Crystal 7360
+World 6-2 Time 7361
+World 6-3 Start Y 7368
+World 6-3 Start X 7369
+World 6-3 Crystal 736C
+World 6-3 Time 736D
+World 6-4 Start Y 7374
+World 6-4 Start X 7375
+World 6-4 Crystal 7378
+World 6-4 Time 7379
